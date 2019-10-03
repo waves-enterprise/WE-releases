@@ -7,4 +7,4 @@ Added configuration key "vostok.privacy.enabled". Default value is "false". To c
 v0.95
 ------
 
-v0.95 Added configuration section "vostok.scheduler-service" for anchoring to mainnet. To configure anchoring please refer to [anchoring documentation](https://docs.wavesenterprise.com/en/how-the-platform-works/anchoring.html)
+Added configuration section "vostok.scheduler-service" for anchoring to mainnet. To configure anchoring please refer to [anchoring documentation](https://docs.wavesenterprise.com/en/how-the-platform-works/anchoring.html)
