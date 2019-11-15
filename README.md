@@ -1,3 +1,3 @@
-[Релизы платформы](https://github.com/waves-enterprise/WE-releases/releases)
+[Releases](https://github.com/waves-enterprise/WE-releases/releases)
 
-[Документация платформы](https://docs.wavesenterprise.com/)
+[Documentation](https://docs.wavesenterprise.com/)
