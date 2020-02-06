@@ -1,3 +1,8 @@
+v1.1.2
+------
+[Release notes and artifacts](https://github.com/waves-enterprise/WE-releases/releases/tag/v1.1.2)
+
+
 v1.1.0
 ------
 Release requires minor configuration changes. [Release notes and artifacts](https://github.com/waves-enterprise/WE-releases/releases/tag/v1.1.0)
