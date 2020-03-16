@@ -1,3 +1,8 @@
+v1.2.0
+------
+ATTENTION: Since 1.2.0 release node requires a License to run. Please refer to the documentation for additional details: https://docs.wavesenterprise.com/en/1.2.0/how-to-use/getting-license.html
+
+
 v1.1.2
 ------
 [Release notes and artifacts](https://github.com/waves-enterprise/WE-releases/releases/tag/v1.1.2)
