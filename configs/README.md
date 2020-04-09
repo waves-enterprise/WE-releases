@@ -1,3 +1,8 @@
+v1.2.2
+------
+[Documentation](https://docs.wavesenterprise.com/en/1.2.2)
+
+
 v1.2.0
 ------
 ATTENTION: Since 1.2.0 release node requires a License to run. Please refer to the documentation for additional details: https://docs.wavesenterprise.com/en/1.2.0/how-to-use/getting-license.html
