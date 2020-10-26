@@ -1,6 +1,6 @@
 v1.4.0
 ------
-ATTENTION: `node.rest-api` config section has been migrated to `node.api.rest`. Please refer to the [documentation](https://docs.wavesenterprise.com/en/1.4.0) for additional details
+ATTENTION: `node.rest-api` config section has been migrated to `node.api.rest`. Please refer to the [documentation](https://docs.wavesenterprise.com/en/latest/how-to-setup/configuration/config-changelog.html) for additional details
 
 
 v1.3.1
