@@ -2,4 +2,4 @@
 
 [Documentation](https://docs.wavesenterprise.com/)
 
-[Demo Version](https://docs.wavesenterprise.com/en/1.5.0/how-to-setup/install-node.html#sandbox)
+[Demo Version](https://docs.wavesenterprise.com/en/latest/get-started/sandbox/sandbox.html)
