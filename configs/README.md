@@ -1,3 +1,8 @@
+v1.7.0
+------
+ATTENTION: `node.blockchain-events-service` config section has been migrated to `node.api.grpc.services.blockchain-events`.
+[Documentation](https://docs.wavesenterprise.com/en/1.7.0)
+
 v1.6.2
 ------
 [Documentation](https://docs.wavesenterprise.com/en/1.6.2)
