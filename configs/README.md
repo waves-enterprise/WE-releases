@@ -1,3 +1,7 @@
+v1.7.3
+------
+[Documentation](https://docs.wavesenterprise.com/en/1.7.3)
+
 v1.7.2
 ------
 [Documentation](https://docs.wavesenterprise.com/en/1.7.2)
