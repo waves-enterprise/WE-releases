@@ -1,3 +1,8 @@
+v1.8.1
+------
+ATTENTION: crucial patch for 1.8.0, updating is highly recommended
+[Documentation](https://docs.wavesenterprise.com/en/1.8.0)
+
 v1.8.0
 ------
 [Documentation](https://docs.wavesenterprise.com/en/1.8.0)
