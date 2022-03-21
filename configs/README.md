@@ -1,3 +1,8 @@
+v1.8.2
+------
+A recommended patch for 1.8.x, updating is necessary for nodes with 'contract_validator' role.
+[Documentation](https://docs.wavesenterprise.com/en/1.8.0)
+
 v1.8.1
 ------
 ATTENTION: crucial patch for 1.8.0, updating is highly recommended
